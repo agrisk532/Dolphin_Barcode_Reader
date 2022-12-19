@@ -1,2 +1,2 @@
-Dolphin barcode reader
+Dolphin barcode reader.
 IDE: MSVC
